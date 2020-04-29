@@ -2,7 +2,7 @@
 A python and pygame version of music Player.
 
 
-![](https://github.com/rajpratap/gui_sudoku_puzzle/blob/master/images/Capture.PNG)
+![](https://github.com/rajpratap/Music_Player/blob/master/IMAGES/Capture.PNG)
 
 ## Requirements
 
