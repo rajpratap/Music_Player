@@ -16,4 +16,10 @@ pip install eyed3
 pip install pygame
 ```
 
-Run these command on cmd to install the required modules.
+Run these command on cmd to install the required modules, or you can also use requirements file for installing all these.
+Following is the command for that: 
+
+
+```bash
+pip install -r requirements.txt
+```
