@@ -1,3 +1,5 @@
+# DEVELOPED BY RAJ PRATAP SINGH
+
 from tkinter import *
 from tkinter.ttk import Progressbar
 import pygame
@@ -125,6 +127,8 @@ bar.place(x = 55, y = 100)
 lbl = Label(progres, bg = "grey", font = ("times new roman", 16, "bold"))
 lbl.place(x = 400, y = 50)
 tick()
+
+dev = Label(progres, text = "Developed By : Raj Pratap Singh", bg = "grey").place(x = 800, y = 140)
 
 
 root.mainloop()
