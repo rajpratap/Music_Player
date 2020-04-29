@@ -1,0 +1,3 @@
+pip install pygame
+pip install eyed3
+pip install tkinter
